@@ -32,7 +32,7 @@ function App() {
         </div>
         <div className="right flex w-[10%] justify-between min-w-[200px] mx-auto mt-5 lg:mt-0 lg:mr-0 ">
           <a
-            href="https://discord.gg/PG6wPHuX7t"
+            href="https://discord.gg/deV4GeRk5j"
             target={"_blank"}
           >
             <div className="icon bg-white rounded-full w-12 h-12 flex justify-center pt-3 hover:bg-gray-300 ">
